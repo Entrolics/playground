@@ -13,6 +13,8 @@ Clone the playground repo.
 `git clone https://github.com/Entrolics/playground.git`
 Now, you're set up to start playing and learn git.
 
+NOTE:
+
 Following are the most commonly used git commands and I would recommend you start from there.
 
    `git clone`
