@@ -38,6 +38,7 @@ Following are the most commonly used git commands and I would recommend you star
    `git diff`
 
    `git log`
+
 These commands are enough for now to get you started with git through terminal. Once you feel comfortable using git through terminal, you can use gui applications such as gitk and git gui. "gitk" provides visual representation of 'git log' and 'git diff' and "git gui" let's you do everything else.
 
 Following links will help you learn all these commands.
